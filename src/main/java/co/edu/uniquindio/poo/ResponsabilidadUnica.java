@@ -1,5 +1,7 @@
 package co.edu.uniquindio.poo;
 
+//CORRECTO
+
 class Empleado{}
 
 class RegistroEmpleados {
@@ -10,6 +12,8 @@ class RegistroEmpleados {
 
     }
 }
+
+//INCORRECTO
 
 class RegistroEmpleados{
 

@@ -48,6 +48,6 @@ class Gerente extends Empleado {
     }
 
     public double calcularSalario(){
-        return super.calcularSalario()+bonoExtra;
+        return bonoExtra;
     }
 }
